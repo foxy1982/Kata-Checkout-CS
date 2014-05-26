@@ -1,0 +1,8 @@
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\bin\Debug\Kata-Checkout-CS.exe.config
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\obj\Debug\Kata-Checkout-CS.csprojResolveAssemblyReference.cache
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\bin\Debug\Kata-Checkout-CS.exe
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\bin\Debug\Kata-Checkout-CS.pdb
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\bin\Debug\nunit.framework.dll
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\bin\Debug\nunit.framework.xml
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\obj\Debug\Kata-Checkout-CS.exe
+C:\src\git\Kata-Checkout-CS\Kata-Checkout-CS\Kata-Checkout-CS\obj\Debug\Kata-Checkout-CS.pdb
